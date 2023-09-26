@@ -1,3 +1,5 @@
+<!-- เเบบ PDO -->
+
 <?php
 $servername = "localhost";
 $username = "root";
